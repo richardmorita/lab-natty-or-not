@@ -1,51 +1,54 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Natty ou Fake Natty? — Criando um Avatar Virtual Aesthetic com IA
 
-## 🚀 Introdução
+📒 Descrição
+Este projeto explora o poder das IAs generativas para criar um avatar virtual hiper-realista capaz de narrar um texto motivacional no estilo “Natty or Not”. Utilizei ferramentas de geração de imagem, clonagem de voz e produção de vídeo para criar um conteúdo final que parece quase humano.
+O objetivo é mostrar como combinar várias IAs para produzir conteúdo convincente, criativo e de alta qualidade.
 
-> Woooow! Look at this 👀
+🤖 Tecnologias Utilizadas
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+M365 Copilot – roteiro textual geral
+Chat GPT/ criador de imagens– criação da imagem do avatar
+ElevenLabs – geração e clonagem de voz
+HeyGen – criação de vídeo com avatar falando
+CapCut – edição final do vídeo, colocação de legenda
 
 ### Template
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+🧐 Processo de Criação
 
-## 📒 Descrição
-Breve descrição do seu projeto
+1. Roteiro
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Escrevi um pequeno texto sobre o tema “Natty vs Fake Natty”, usando IA para deixar natural e convincente.
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+2. Geração do Avatar
+
+Criei a imagem base de um personagem masculino com aparência atlética, iluminação realista e estilo fotográfico.
+
+3. Voz Artificial
+
+Usei IA para gerar uma voz calma, profunda e natural, combinando o texto do roteiro.
+
+4. Vídeo Final
+
+A imagem e a voz foram enviadas para um software de avatar AI, que sincronizou boca, expressões e falas. 
+Em seguida gerei a legenda num software de edição de vídeos.
+
+5. Edição
+
+Ajustei cortes, trilha sonora e legendas para aumentar o realismo.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+✅ Avatar criado com aparência hiper-realista
+✅ Vídeo curto (até 30s) com fala sincronizada
+✅ Conteúdo totalmente criado por IA
+✅ Material perfeito para portfólio e redes sociais
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Criar algo “natty” usando IA é um desafio interessante. Quanto mais realista o resultado, mais percebemos o quanto essas ferramentas estão evoluindo. Ao mesmo tempo, isso nos faz pensar sobre autenticidade, autoria e o futuro da criação digital.
+A experiência mostra que:
+
+Quanto mais detalhado o prompt, melhor o resultado;
+Combinar várias IAs gera um produto final muito mais convincente;
+Mesmo tendo muita automação, a visão criativa humana continua sendo o diferencial.
 ```
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
