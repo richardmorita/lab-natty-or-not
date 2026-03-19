@@ -43,7 +43,7 @@ Ajustei cortes, trilha sonora e legendas para aumentar o realismo.
 ✅ Conteúdo totalmente criado por IA
 ✅ Material perfeito para portfólio e redes sociais
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão 
 Criar algo “natty” usando IA é um desafio interessante. Quanto mais realista o resultado, mais percebemos o quanto essas ferramentas estão evoluindo. Ao mesmo tempo, isso nos faz pensar sobre autenticidade, autoria e o futuro da criação digital.
 A experiência mostra que:
 
@@ -51,7 +51,3 @@ Quanto mais detalhado o prompt, melhor o resultado;
 Combinar várias IAs gera um produto final muito mais convincente;
 Mesmo tendo muita automação, a visão criativa humana continua sendo o diferencial.
 ```
-Links Interessantes
-Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical
-
-Base10's Trend Map Generative AI
