@@ -51,4 +51,7 @@ Quanto mais detalhado o prompt, melhor o resultado;
 Combinar várias IAs gera um produto final muito mais convincente;
 Mesmo tendo muita automação, a visão criativa humana continua sendo o diferencial.
 ```
+Links Interessantes
+Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical
 
+Base10's Trend Map Generative AI
